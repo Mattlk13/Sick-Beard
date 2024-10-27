@@ -1,7 +1,7 @@
 Sick Beard
 =====
 
-*Sick Beard is currently an alpha release. There may be severe bugs in it and at any given time it may not work at all.*
+### NOTE: Sick Beard is no longer actively maintained. Old versions may still work, but if you have any issues or are doing a new install I recommend you use Sonarr or one of the many active SickBeard forks.
 
 Sick Beard is a PVR for newsgroup users (with limited torrent support). It watches for new episodes of your favorite shows and when they are posted it downloads them, sorts and renames them, and optionally generates metadata for them. It currently supports several torrent and usenet sites and retrieves show information from theTVDB.com and TVRage.com.
 
